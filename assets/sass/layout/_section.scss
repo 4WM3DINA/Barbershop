@@ -1,0 +1,27 @@
+.section1{
+    padding:40px;
+    border-bottom: 1px solid #dbdfe2;
+    margin-bottom:15px;
+}
+.section2{
+    justify-content: center;
+    align-items: center;
+    padding: 5rem;
+    img{
+        width: 130px;
+        height: 100px;;  
+        float: left;
+        margin-right: 2rem;
+        margin: 20px;
+        border-radius: 500px;
+    }
+}
+.section3{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #dbdfe2;
+    ul.pagination{
+        justify-content: center;   
+        margin-top: 3rem;
+    }
+}

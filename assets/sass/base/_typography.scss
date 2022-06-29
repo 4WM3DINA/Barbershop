@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+.texto1 {
+    font-size: $xx-size;
+    font-weight: 400;
+    align-items: center;
+    color: white;
+    margin-top: 10rem;
+  }
+.texto2 {
+        font-size: $l-size;
+        font-weight: 400;
+        align-items: center;
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
+.texto3{
+    color:#E56353;
+}
+
+.email{
+    color:$bg-fuzzywuzzy;
+    font-weight: 300;
+    font-size: $m-size;
+}
